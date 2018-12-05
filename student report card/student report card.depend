@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544017565 source:c:\program files (x86)\codeblocks\c++ practise basic programs\student report card\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<process.h>
+	<fstream>
+	<iomanip>
+	<conio.h>
+
